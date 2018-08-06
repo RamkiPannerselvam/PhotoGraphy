@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 1,
+    "passes": 1,
+    "pending": 0,
+    "failures": 0,
+    "start": "2018-05-02T11:54:17.639Z",
+    "end": "2018-05-02T11:54:17.728Z",
+    "duration": 89
+  },
+  "failures": [],
+  "passes": [
+    {
+      "title": "component is rendered",
+      "fullTitle": "Checking Rendering component is rendered",
+      "duration": 0
+    }
+  ],
+  "skipped": []
+}
